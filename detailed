@@ -1,0 +1,27 @@
+// 1 - detail
+
+// Known
+RB[45] DP
+VDom[5] DP
+RP[35] DW
+VDom[20] DW
+MDom[58] DW
+UBFA[22] DW
+URH[12] DW
+
+// Unknown
+TBD [30] CL
+TBD [3] DW
+
+// Remainder
+RP [20] HIN
+UFD[26] HIN
+WS [5] IN
+UET[65] IN
+RB[2] SV
+UBFA[2] SV
+VDom[10] SV
+MDom[5] SV
+
+ // UBFA 18
+ // URH 10 1.2424
